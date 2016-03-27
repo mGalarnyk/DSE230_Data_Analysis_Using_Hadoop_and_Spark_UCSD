@@ -1,0 +1,87 @@
+Intro to Big Data: Quiz 
+V for the Five V’s of Big Data
+
+1. 
+Amazon has been collecting review data for a particular product. They have realized that almost 90% of the reviews were mostly a 5/5 rating. However, of the 90%, they realized that 50% of them were customers who did not have proof of purchase or customers who did not post serious reviews about the product. Of the following, which is true about the review data collected in this situation?
+
+High Valence
+
+(ANSWER) Low Veracity
+
+High Volume
+
+Low Volume
+
+High Veracity
+
+Low Valence
+
+2. 
+As mentioned in the slides, what are the challenges to data with high valence?
+
+(ANSWER) Complex Data Exploration Algorithms
+
+Difficult to Integrate
+
+Reliability of Data
+
+3. 
+Which of the follow is NOT one of the 6 V's in big data?
+
+Veracity
+
+(NOT) Variety
+
+Value
+
+Velocity
+
+Valence
+
+Volume
+
+(ANSWER)Vision
+
+4. 
+What is the veracity of big data?
+
+(ANSWER)The abnormality or uncertainties of data.
+
+The speed at which data is produced.
+
+The size of the data.
+
+The connectedness of data.
+
+5. 
+What are the challenges of data with high variety?
+
+Hard in utilizing group event detection.
+
+Hard to perform emergent behavior analysis.
+
+(ANSWER) Hard to integrate.
+
+The quality of data is low.
+
+6. 
+Which of the following is the best way to describe why it is crucial to process data in real-time?
+
+(NOT)More accurate.
+
+(NOT)More expensive to batch process.
+
+Batch processing is an older method that is not as accurate as real-time processing.
+
+Prevents missed opportunities.
+
+7. 
+What are the challenges with big data that has high volume?
+
+(NOT) Effectiveness and Cost
+
+Speed Increase in Processing
+
+(ANSWER)Cost, Scalability, and Performance
+
+Storage and Accessibility

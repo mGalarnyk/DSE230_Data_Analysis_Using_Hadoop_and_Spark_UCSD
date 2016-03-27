@@ -1,0 +1,125 @@
+Intro to Big Data: Quiz 
+Data Science 101
+
+1. 
+Which of the follow is NOT part of the 5 P's of data science and NOT part of an additional P introduced in the slides?
+
+(ANSWER)Perception
+
+Platforms
+
+People
+
+Process
+
+Programmability
+
+Product
+
+Purpose
+
+2. 
+Which of the following is NOT part of the four main categories to acquire, access, and retrieve data?
+
+NoSQL Storage
+
+Traditional Databases
+
+(NOT)Text Files
+
+(ANSWER)Web Services
+
+(NOT)Remote Data
+
+3. 
+What are the steps required for data analyzation?
+
+Investigate, Build Model, Evaluate
+
+Classification, Regression, Analysis
+
+Regression, Evaluate, Classification
+
+(ANSWER)Select Technique, Build Model, Evaluate
+
+4. 
+Of the following, what is a technique mentioned in the videos for building a model?
+
+(NOT)Investigation
+
+(NOT)Evaluation
+
+Analysis
+
+(NOT)Validation
+
+5. 
+What is the first step in finding a right problem to tackle in data science?
+
+(NOT)Define Goals
+
+Ask the Right Questions
+
+(ANSWER)Define the Problem
+
+Assess the Situation
+
+6. 
+What is the first step to big data strategy?
+
+(NOT)Organizational Buy-In
+
+Business Objectives
+
+(NOT)Collect Data
+
+Build In-House Expertise
+
+7. 
+According to Ilkay, why is exploring data crucial to better modeling?
+Data exploration... <complete the sentence>
+
+(ANSWER)leads to data understanding which allows an informed analysis of the data.
+
+(NOT)enables understanding of general trends, correlations, and outliers.
+
+enables histograms and others graphs as data visualization.
+
+enables a description of data which allows visualization.
+
+8. 
+Why is data science mainly about teamwork?
+
+(ANSWER)Data science requires a variety of expertise in different fields.
+
+Engineering solutions are preferred.
+
+Exhibition of curiosity is required.
+
+Analytic solutions are required.
+
+9. 
+What is NOT a way to address data quality issues?
+
+(NOT)Generate best estimates for invalid values.
+
+Merge duplicate records.
+
+Remove data with missing values.
+
+Remove outliers.
+
+(ANSWER)Data Wrangling
+
+10. 
+What is done to the data in the preparation stage?
+
+Retrieve Data
+
+(ANSWER)Understand Nature of Data and Preliminary Analysis.
+
+Select Analytical Techniques
+
+Identify Data Sets and Query Data
+
+Build Models
