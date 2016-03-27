@@ -1,0 +1,140 @@
+Intro to Big Data: Quiz 
+Intro to Hadoop
+
+1. 
+What does IaaS provide?
+
+(ANSWER)Hardware Only
+
+Computing Environment
+
+Software On-Demand
+
+2. 
+What does PaaS provide?
+
+Hardware Only
+
+(ANSWER)Computing Environment
+
+Software On-Demand
+
+3. 
+What does SaaS provide?
+
+Computing Environment
+
+Hardware Only
+
+(ANSWER)Software On-Demand
+
+4. 
+What are the two key components of HDFS and what are they used for?
+
+NameNode for block storage and Data Node for metadata.
+
+(ANSWER)NameNode for metadata and DataNode for block storage.
+
+FASTA for genome sequence and Rasters for geospatial data.
+
+5. 
+What is the job of the NameNode?
+
+(ANSWER)Coordinate operations and assigns tasks to Data Nodes
+
+Listens from DataNode for block creation, deletion, and replication.
+
+For gene sequencing calculations.
+
+
+6. 
+What are the three steps to Map Reduce?
+
+Shuffle and Sort -> Map -> Reduce
+
+(ANSWER)Map -> Shuffle and Sort -> Reduce
+
+Map -> Reduce -> Shuffle and Sort
+
+Shuffle and Sort -> Reduce -> Map
+
+7. 
+What is a benefit of using pre-built Hadoop images?
+
+(ANSWER)Quick prototyping, deploying, and validating of projects.
+
+Less software choices to choose from.
+
+Quick prototyping, deploying, and guaranteed bug free.
+
+Guaranteed hardware support.
+
+8. 
+What is an example of open-source tools built for Hadoop and what does it do?
+
+Giraph, for SQL-like queries.
+
+Pig, for real-time and in-memory processing of big data.
+
+Zookeeper, analyze social graphs.
+
+(ANSWER)Giraph, for processing large-scale graphs.
+
+
+9. 
+What is the difference between low level interfaces and high level interfaces?
+
+(ANSWER)Low level deals with storage and scheduling while high level deals with interactivity.
+
+Low level deals with interactivity while high level deals with storage and scheduling.
+
+10. 
+What is NOT a problem to look out for when you want to integrate your project with Hadoop?
+
+(NOT)Infrastructure Replacement
+
+Advanced Alogrithms
+
+Random Data Access
+
+Task Level Parallelism
+
+Data Level Parallelism
+
+11. 
+What is NOT a major goal of Hadoop as covered in the slides?
+
+Optimized for a Variety of Data Types
+
+Handle Fault Tolerance
+
+Facilitate a Shared Environment
+
+Provide Value for Data
+
+Enable Scalability
+
+(ANSWER)Latency Sensitive Taks
+
+12. 
+What is the purpose of YARN?
+
+(ANSWER)Allows various applications to run on the same Hadoop cluster.
+
+Enables large scale data across clusters.
+
+Implementation of Map Reduce.
+
+13. 
+What are the two main components for a data computation framework that were described in the slides?
+
+Applications Master and Container
+
+Resource Manager and Container
+
+Node Manager and Container
+
+(ANSWER)Resource Manager and Node Manager
+
+Node Manager and Applications Master
+
