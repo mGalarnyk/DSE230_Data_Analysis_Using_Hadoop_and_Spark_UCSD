@@ -1,0 +1,105 @@
+Intro to Big Data Analytics: Quiz 
+HBase Basics
+
+1. 
+What is HBase?
+
+Distributed scalable database
+
+Distributed non-relational, open source database
+
+Distributed row-oriented database
+
+Distributed scalable Big Data store
+
+2. 
+HBase and HDFS
+
+Are both great for batch processing
+
+HBase is designed for sequential access only
+
+HDFS is designed for fast lookups for large tables
+
+All of the above
+
+None of the above
+
+3. 
+HBase (mark all that apply)
+
+
+Provides fast lookups for large tables
+
+Enables Random Access
+
+Enables low latency access to singe rows from billions of records
+
+Is a distributed file system
+
+4.
+HBase is
+
+Not a relational database
+
+Is a relational database
+
+5. 
+HBase is a
+
+Attribute -value store
+
+Key-value store
+
+Index-value store
+
+Hash-value store
+
+6. 
+BigTable is
+
+Sparse, distributed, persistent, multidimensional, Sorted Map
+
+Sparse, distributed, persistent, multidimensional, Random Access Map
+
+Sparse, distributed, sporadic, multidimensional, Sorted Map
+
+7. 
+Data in the BigTable is organized into
+
+Rows, columns, hash numbers
+
+Rows, family, tim
+
+Rows, columns, transactions
+
+Rows, columns, time stamps
+
+8. 
+Column keys are grouped into
+
+Column Tablets
+
+Column Families
+
+Column Hashes
+
+9. 
+HBase Data Model supports
+
+Dynamic columns
+
+Static columns
+
+10. 
+What are the 3 major HBase components?
+
+
+Region
+
+Region Server
+
+Master Server
+
+Name Node
+
