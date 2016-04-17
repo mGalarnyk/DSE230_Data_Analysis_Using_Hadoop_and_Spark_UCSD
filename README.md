@@ -57,3 +57,7 @@ Map-reduce, streaming analysis, and external memory algorithms and their impleme
   <li>Streaming: http://spark.apache.org/docs/latest/configuration.html#spark-streaming</li>
   <li>SGD: http://spark.apache.org/docs/latest/mllib-optimization.html#stochastic-gradient-descent-sgd</li>
 </ul>
+
+
+## Notes 
+<li>[Timing for Regex vs string.translate and string.replace](https://github.com/mGalarnyk/DSE230_Data_Analysis_Using_Hadoop_and_Spark_UCSD/blob/master/Timing_Regex_Translate_Replace_Join.ipynb) </li>
