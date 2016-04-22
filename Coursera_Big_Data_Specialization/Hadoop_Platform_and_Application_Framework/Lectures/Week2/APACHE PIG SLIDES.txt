@@ -1,0 +1,85 @@
+APACHE PIG SLIDES:
+
+[1] Copying files into HDFS, Start Pig:
+
+hdfs dfs -put /etc/passwd /user/cloudera
+
+pig -x mapreduce
+
+[2] Once in grunt, the following commands are run:
+
+A = load '/user/cloudera/passwd' using PigStorage(':');
+
+B = foreach A generate $0, $4, $5;
+
+dump B;
+
+[3] Store output:
+
+store B into 'userinfo.out';
+
+quit
+
+[4] Check output in HDFS:
+
+hdfs dfs -ls /user/cloudera
+
+APACHE HIVE SLIDES:
+
+[1] Copy file into HDFS, start beeline:
+
+hdfs dfs -put /etc/passwd /tmp/
+
+beeline -u jdbc:hive2://
+
+[2] Run HIVE commands:
+
+CREATE TABLE userinfo ( uname STRING, pswd STRING, uid INT, gid INT, fullname STRING, hdir STRING, shell STRING ) ROW FORMAT DELIMITED FIELDS TERMINATED BY ':' STORED AS TEXTFILE;
+
+LOAD DATA INPATH '/tmp/passwd' OVERWRITE INTO TABLE userinfo;
+
+SELECT uname, fullname, hdir FROM userinfo ORDER BY uname ;
+
+[3] To exit out of beeline:
+
+!q
+
+APACHE HBASE SLIDES:
+
+[1] Enter HBase Shell:
+
+hbase shell
+
+[2] Create table and entries:
+
+create 'userinfotable',{NAME=>'username'},{NAME=>'fullname'},{NAME=>'homedir'}
+
+put 'userinfotable','r1','username','vcsa'
+
+put 'userinfotable','r2','username','sasuser'
+
+put 'userinfotable','r3','username','postfix'
+
+put 'userinfotable','r1','fullname','VirtualMachine Admin'
+
+put 'userinfotable','r2','fullname','SAS Admin'
+
+put 'userinfotable','r3','fullname','Postfix User'
+
+put 'userinfotable','r1','homedir','/home/vcsa'
+
+put 'userinfotable','r2','homedir','/var/sasuser'
+
+put 'userinfotable','r3','homedir','/user/postfix'
+
+[3] Check entries:
+
+scan 'userinfotable'
+
+[4] Select "fullname" column:
+
+scan 'userinfotable',{COLUMNS=>'fullname'}
+
+[5] Quit HBase shell:
+
+exit
