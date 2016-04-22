@@ -1,0 +1,71 @@
+
+Hadoop Execution Environment
+
+
+1. 
+
+Apache Spark cannot operate without YARN
+
+True
+
+answer False
+
+
+2. 
+
+Apache Tez can support dynamic DAG changes
+
+answer True
+
+False
+
+
+3. 
+
+Give an example of an execution framework that supports cyclic data flow
+
+MapReduce
+
+Tez
+
+answer Spark
+
+4. 
+
+The Fairshare scheduler can support queues/sub-queues
+
+answer True
+
+False
+
+5. 
+
+The Capacity Scheduler can use ACLs to control security
+
+answer True
+
+False
+
+6. 
+
+Mark choices that apply for Apache Spark:
+
+answer Can run integrated with YARN
+
+answer Supports in memory computing
+
+Cannot handle cyclic data flows
+
+answer Can be accessed/used from high level languages like Java, Scala, Python, and R.
+
+7. 
+
+Which of the following choices apply for Apache Tez
+
+answer Supports complex directed acyclic graph (DAG) of tasks
+
+Supports cyclic data flows
+
+answer Supports in memory caching of data
+
+answer Improves resource usage efficiency
