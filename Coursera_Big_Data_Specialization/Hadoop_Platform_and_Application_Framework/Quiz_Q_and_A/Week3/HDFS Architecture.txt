@@ -1,0 +1,61 @@
+
+HDFS Architecture
+
+
+1. 
+HDFS is strictly POSIX compliant.
+
+True
+
+ANSWER False
+
+2. 
+Following issues may be caused by lot of small files in HDFS
+
+ANSWER NameNode memory usage increases significantly
+
+Network load decreases
+
+ANSWER Number of map tasks need to process the same amount of data will be larger.
+
+I/O rate will be faster
+
+3. 
+You are writing a 10GB file to a HDFS filesystem with a default block size of 128MB. How many blocks will the file be broken into?
+
+1280
+
+160
+
+ANSWER 80
+
+480
+
+4. 
+You are writing a 10GB file into HDFS with a replication of 2 and block size of 64MB. How much total disk space will this file use?
+
+20GB
+
+128GB
+
+10GB
+
+WRONG 30GB
+
+5. 
+What is the first step in a write process from a HDFS client?
+
+Immediately contact the NameNode
+
+ANSWER Start locally caching the data that needs to be written and then contact NameNode
+
+Contact the nearest DataNode
+
+Contact all the DataNodes involved in replication
+
+6. 
+HDFS NameNode is not rack aware when it places the replica blocks.
+
+True
+
+ANSWER False
