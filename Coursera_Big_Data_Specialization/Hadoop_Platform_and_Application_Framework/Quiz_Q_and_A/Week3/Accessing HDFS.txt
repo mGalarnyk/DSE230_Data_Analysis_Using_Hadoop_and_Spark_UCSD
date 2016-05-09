@@ -1,0 +1,64 @@
+
+Accessing HDFS
+
+1. 
+Which of the following are valid access mechanisms for HDFS
+
+[no,]Can be accessed via hdfs binary/script
+
+[try] Accessed via Java API
+
+[try] Accessed via HTTP
+
+[try] Mounted as a filesystem using NFS Gateway
+
+2. 
+Which of the following is not a valid command to handle data in HDFS?
+
+hdfs dfs -mkdir /user/test
+
+hdfs dfs -ls /
+
+answer cp -r /user/data /user/test/
+
+hdfs fsck /user/test/test.out
+
+3. 
+Which of the following commands will give information on the status of DataNodes
+
+hdfs dfs -status datanodes
+
+hdfs -status
+
+hdfs datanode -status
+
+answer hdfs dfsadmin -report
+
+4. 
+Which of the following is not a method in FSDataInputStream
+
+read
+
+readFully
+
+answer hflush
+
+getPos
+
+5. 
+You can only read data in HDFS via HTTP
+
+True
+
+answer False
+
+6. 
+What are some webhdfs REST API related parameters in HDFS
+
+answer dfs.webhdfs.enabled
+
+dfs.blocksize
+
+dfs.replication
+
+answer dfs.web.authentication.kerberos.keytab
