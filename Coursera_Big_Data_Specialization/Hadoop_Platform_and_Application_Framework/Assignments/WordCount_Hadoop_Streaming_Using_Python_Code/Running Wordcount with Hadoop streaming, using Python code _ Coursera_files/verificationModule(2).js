@@ -1,0 +1,1 @@
+define("bundles/verification/views/nls/verificationModule",["require","exports","module"],function(require,exports,module){"use strict";module.exports={}});
