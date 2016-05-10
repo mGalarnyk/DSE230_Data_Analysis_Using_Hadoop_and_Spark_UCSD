@@ -1,0 +1,18 @@
+RDD.take(1) # return 1 element ofRDD
+
+RDD.collect() #get all data on the driver
+RDD.glom().collect() # Maintain splitting in partitions
+RDD.textFile("path_to_file.txt") # read text into Spark
+RDD.parallelize(range(10), 3)
+
+# Wordcount in Spark: map
+def split_words(line):
+	return line.split()
+
+def create_pair(word):
+	return (word, 1)
+
+pairs_RDD=text_RDD.flatMap(split_words).map(create_pair)
+############
+
+
