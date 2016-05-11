@@ -1,0 +1,35 @@
+Running Kmeans Clustering in Spark
+
+1. 
+After running the Kmeans pyspark script, with the number of clusters k=3: What is the SSE?
+
+
+1.96
+
+4.54
+
+answer 2.03
+
+2. 
+Change the number of clusters to k=4 and rerun the training command and get the SSE (or rerun the whole script).
+
+What is the approximate SSE for k=4?
+
+(note that the random data is generated with seed values set so it should be the same across runs)
+
+
+answer 1.65
+
+4.96
+
+1.50
+
+3. 
+What is the relationship between SSE when k=1 and the variance of each dimension?
+
+
+NO SSE is not related to variance of each dimensin
+
+SSE is 2 times the variance of each dimension
+
+answer SSE = total variance of each dimension
