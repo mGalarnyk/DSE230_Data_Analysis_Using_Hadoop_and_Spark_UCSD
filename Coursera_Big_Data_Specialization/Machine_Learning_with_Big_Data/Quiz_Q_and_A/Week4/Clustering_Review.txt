@@ -1,0 +1,70 @@
+
+Clustering Review
+
+1. 
+What is the basic idea behind the clustering algorithm?
+
+Create teams of models
+
+answer Group similar things together
+
+Find groups of unique identifiers
+
+2. 
+in K-means - what does K stand for?
+
+
+Number of instances
+
+answer Number of clusters
+
+Number of attributes
+
+Number of classes
+
+
+3. 
+Clustering is
+
+answer Unsupervised type of learning
+
+Supervised type of learning
+
+
+***note unsupervised learning is where no target value to be predicted
+
+4. 
+K-means clustering results in what kind of clusters?
+
+Probabilistic
+
+Hierarchical
+
+answer Deterministic
+
+Overlaping
+
+
+5. 
+Clustering result can vary significantly based on initial choice of seed
+
+
+answer True
+
+False
+
+
+6. 
+K-means Algorithm can easily fail to find a reasonable clustering
+
+answer True
+
+False
+
+7. 
+K-means clustering is extremely computationally intensive.
+
+
+ True
+
+answer False
