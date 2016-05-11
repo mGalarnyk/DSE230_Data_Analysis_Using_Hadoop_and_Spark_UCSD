@@ -1,0 +1,8 @@
+Jan-01 able,5
+Feb-02 about,3
+Mar-03 about,8
+Apr-04 able,13
+Feb-22 actor,3
+Feb-23 burger,5
+Mar-08 burger,2
+Dec-15 able,100
