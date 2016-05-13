@@ -1,0 +1,47 @@
+Classification Algorithms - Naive Bayes Review
+
+1. 
+
+What is the main Naive Bayes assumption?
+
+NO Knowledge about the value of the class attribute indicates value of another attribute
+
+try Knowledge about the value of a particular attribute doesn’t tell us anything about the value of another attribute
+
+Knowledge about the value of a particular attribute tells us everything we need to know about the class value 
+
+2. 
+
+Even when the attribute independence assumption is violated, Naive Bayes scheme still works well.
+
+NO False
+
+True
+
+3. 
+
+In Naive Bayes - a prior probability is
+
+Probability of event after evidence has been seen
+
+ANSWER Probability of an event before evidence has been seen 
+
+4. 
+
+Naïve Bayes assumption allows for the evidence to be split into independent parts
+
+False
+
+ANSWER True
+
+5. 
+
+Naive Bayes method would have a hard time learning from dataset that has
+
+Many nominal attributes
+
+Many numeric attributes
+
+ANSWER Many redundant attributes
+
+Many irrelevant features

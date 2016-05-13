@@ -1,0 +1,67 @@
+Machine Learning with Big Data Review
+
+1. 
+
+Machine learning algorithms are considered
+
+Descriptive - striving to answer - "What happened?"
+
+Diagnostic -- striving to answer - "Why did it happen?"
+
+try Predictive - striving to answer - "What will happen?"
+
+2. 
+
+Big Data is enabling development of applications that are designed
+
+specifically to take advantage of the unique characteristics of big data.
+
+try True
+
+False
+
+3. 
+
+At the core of most of the Big Data Applications is built-in predictive analytics.
+
+try True
+
+False
+
+4. 
+
+Data Mining is combination of artificial intelligence and statistical analysis to discover hidden patterns in data.
+
+try True
+
+False
+
+5. 
+
+What kinds of patterns can be hidden in data?
+
+Association
+
+Classification
+
+Forecasting
+
+Anomaly detection
+
+try All of the above
+
+6. 
+
+In Supervised type of machine learning
+
+try Training data set is labeled with a class value
+
+Data is not labeled in any way
+
+7. 
+
+Clustering analysis is typically considered
+
+Predictive Modeling
+
+try Descriptive Modeling

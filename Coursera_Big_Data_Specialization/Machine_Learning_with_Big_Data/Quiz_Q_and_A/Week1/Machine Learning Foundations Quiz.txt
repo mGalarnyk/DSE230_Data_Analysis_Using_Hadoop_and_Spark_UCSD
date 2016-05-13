@@ -1,0 +1,99 @@
+Machine Learning Foundations Quiz
+
+1. 
+
+Machine Learning techniques are best described and able to answer the following type of question:
+
+Diagnostic: Why did it happen?
+
+Predictive: What will happen?
+
+Descriptive: What happened?
+
+2. 
+
+What is data mining?
+
+Combination of query processing and business intelligence analysis to discover hidden insight in data.
+
+Combination of data warehousing and expert systems to discover hidden insight in data.
+
+try Combination of artificial intelligence and statistical analysis to discover hidden insight in data.
+
+Combination of database and statistical analysis to discover hidden insight in data.
+
+3. 
+
+Data mining is a multidisciplinary field
+
+try Yes
+
+No
+
+4. 
+
+Data Mining roots trace back along which 3 main disciplines?
+
+Classical Statistics, Database Technologies, Machine Learning
+
+Classical Statistics, Expert systems, Machine Learning
+
+try Classical Statistics, Artificial Intelligence, Machine Learning
+
+Classical Statistics, Artificial Intelligence, BI tools
+
+5. 
+
+The main difference between supervised and unsupervised learning is:
+
+try Supervised learning expects training data set with a labeled class value
+
+Unupervised learning expects training data set with a labeled class value
+
+6. 
+
+Unsupervised Learning has no a priori knowledge of the target class value
+
+try True
+
+False
+
+7. 
+
+Classification and prediction are typically considered
+
+Unsupervised Learning
+
+try Supervised Learning
+
+8. 
+
+Validation and test data are 2 sets of independent instances that have not been used in formation of classifier in any way.
+
+False
+
+try True
+
+9. 
+
+Ten-fold cross validation is one of the most commonly used evaluation techniques. The standard technique for estimating the model error rate given a fixed sample of data involves which of the following?
+
+Splitting the data into 2/3 for training and 1/3 for testing and repeats that process 10 times
+
+Splitting the data into 5 disjoint subsets of data; train on 4 and test on the fifth one
+
+try Partitioning data into 10 disjoint fixed samples of data. Each part is held out in turn and the learning scheme trained on the remaining nine-tenth. The process is repeated 10 times.
+
+Randomly sampling the test data set with replacement
+
+10. 
+
+What is considered overfitting of the machine learning model?
+
+When a machine learning algorithm cannot capture the underlying patterns of the data
+
+try When a model describes random error or noise instead of learning the underlying general data patterns
+
+When a model is too simple
+
+When the model predicts really well on the future unseen data

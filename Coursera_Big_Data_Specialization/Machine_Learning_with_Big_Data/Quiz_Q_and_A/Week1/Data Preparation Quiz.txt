@@ -1,0 +1,59 @@
+Data Preparation Quiz
+
+1. 
+When working with big data many machine learning tools and examples typically assume which of the following about a data set:
+
+ANSWER that data is partioned across rows, and a single row will fit in memory of a single computer, and your model functions will operate on single row
+
+that data is partioned across columns and your analysis is going to operate on single columns
+
+2. 
+What is an indicator (or dummy) variable?
+
+A useless noise variable
+
+ANSWER A variable that represents one particular value of a categorical variable
+
+3. 
+
+A source of noise in many datasets is that different records or terms from different data source might refer to the same primary entity, but have slighty different spellings. This process to fix this noise is often called what?
+
+ANSWER Entity Resolution
+
+Editing
+
+4. 
+
+Which of the following are valid approaches to handle missing data:
+
+1) Drop all records with a missing value, since they only account for 5% of records, and the average class value for records with missing values is the same as the average for records without a missing value.
+
+2) Fill in the missing value of an attribute with the mean value of that attribute.
+
+3). Same as 2, but: If the class variable is categorical take the mean within a class label value. If the outcome variable is a real number then fill in the missing values as a function of the outcome variable.
+
+only 3
+
+1,2, and 3
+
+NO only 1
+
+5. 
+
+When you are creating a data matrix, before using that data in a model you should explore the characterstics of the variables individually.
+
+If you gather the mean and standard deviation for each variable, which of the following cases suggest that a variable is not useful and could be discarded (or should be discarded):
+
+1) A variable that has a mean of 0 and standard deviation of 1
+
+2) A variable that has a mean of 25,000 and standard deviation of 100,000
+
+3) A variable that has a mean of 0 and standard deviation of 0
+
+4) A variable that has a mean of 0, a standard deviation of 0.001, and a correlation with the class label indicator variables (or outcome variable) of approximately 0.
+
+answer 3) and 4)
+
+2) and 4)
+
+3)

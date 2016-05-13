@@ -1,0 +1,35 @@
+Data Preparation with KNIME
+
+1. 
+
+Utilizing the 003001_SimpleFlow_with_Statistics workflow – if we are interested only in the 35-45 working age group. What is the mean capital-loss?
+
+NO 187.7
+
+NO 134.9
+
+CORRECT 152.6
+
+2. 
+
+If we ask the same question but limit it only to people with doctorate degrees – what would be the mean capital loss?
+
+NO 208.6
+
+CORRECT 201.9
+
+203.7
+
+203.4
+
+3. 
+
+Utilizing the 003002_StandardProcessing and editing the Nominal Value Row Filter node (#7) in the workflow, what is the highest Hours-per-week for the Young age?
+
+NO 45
+
+NO 38
+
+Correct 48
+
+52
