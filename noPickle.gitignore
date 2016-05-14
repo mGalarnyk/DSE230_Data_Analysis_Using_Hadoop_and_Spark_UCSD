@@ -1,0 +1,4 @@
+# Ignore Pickle files
+*.pickle
+
+Data/Weather/*.pickle
