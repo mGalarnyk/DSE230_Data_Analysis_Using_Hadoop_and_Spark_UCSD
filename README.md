@@ -59,7 +59,8 @@ Map-reduce, streaming analysis, and external memory algorithms and their impleme
 </ul>
 
 ## Assignments (From Newest to Oldest) 
-
+  <li>[Homework 3 Part 2: Reconstruction of Plots](https://github.com/mGalarnyk/DSE230_Data_Analysis_Using_Hadoop_and_Spark_UCSD/blob/master/Homeworks/2.Reconstruction-HW-Copy.ipynb)</li>
+  <li>[Homework 3 Part 1: PCA analysis](https://github.com/mGalarnyk/DSE230_Data_Analysis_Using_Hadoop_and_Spark_UCSD/blob/master/Homeworks/1.PCA_analysis-HW-Copy.ipynb)</li>
   <li>[Homework 2](https://github.com/mGalarnyk/DSE230_Data_Analysis_Using_Hadoop_and_Spark_UCSD/blob/master/Homeworks/HW-2.ipynb)</li>
   <li>[Homework 1: Spark Moby Dick N Grams](https://github.com/mGalarnyk/DSE230_Data_Analysis_Using_Hadoop_and_Spark_UCSD/blob/master/Submissions/HW-1_MichaelGalarnyk.py) </li>
   
