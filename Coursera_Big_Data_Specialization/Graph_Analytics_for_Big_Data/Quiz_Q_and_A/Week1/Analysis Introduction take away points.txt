@@ -1,0 +1,17 @@
+Intro to Big Data Analytics: Quiz 
+Analysis Introduction Take Away Points
+
+1. 
+Which of the following are kinds of analysis one might do?
+
+
+Query Processing
+
+Summary Statistics
+
+Exploration
+
+Modeling
+
+(ANSWER)All of the above
+
