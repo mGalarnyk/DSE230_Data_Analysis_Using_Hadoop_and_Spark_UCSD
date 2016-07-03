@@ -1,0 +1,108 @@
+Introduction to Graphs
+
+1. 
+Which of the following are graphs? (check all that apply)
+
+2. 
+Which of the following is the correct adjacency matrix for this graph?
+
+
+3. 
+Which of the following content would be objects (or nodes) in a graph that represents the activity in a facebook page?
+
+friends (the action of making someone your friend)
+
+(try location
+
+Created_post (the action of creating a post)
+
+(try, )post text
+
+(try, )comment text
+
+4. 
+Based on the videos, which kinds of analysis might one be able to perform on a tweet graph?
+
+(try, )find interacting groups of users
+
+(try, )extract conversation threads
+
+(try, )find influencers in a twitter community
+
+5. 
+The key reason mentioned in the video that biology applications need Big Data analytics is...
+
+(no, )The complexity of interactions that correlate to inform phenotypes.
+
+(no, )The new use of computational techniques to explore new areas of biology research more quickly than can be done with "live" or wetlab experiments.
+
+(try, )The integration of multiple data sources from different researchers and of different sources of information.
+
+6. 
+Which of the Vs BEST describes the result in constant increasing in the number of edges in a graph, sometimes causing challenges in knowing when one has found "an answer" to one's analysis question?
+
+Variety
+
+Volume
+
+try Velocity
+
+Valence
+
+7. 
+Which of the Vs results in increased algorithmic complexity (which can cause analyses to not be able to finish running in reasonable amounts of time)?
+
+Valence
+
+try Volume
+
+Variety
+
+Velocity
+
+8. 
+Which of the Vs results in challenges due to graphs created from varying kinds, formats, sources, and meanings of data?
+
+Volume
+
+Valence
+
+try Variety
+
+Velocity
+
+9. 
+Which of the Vs causes increased interconnectivity of a graph -- which can cause problems in analysis due to density?
+
+Volume
+
+Variety
+
+try Valence
+
+Velocity
+
+10. 
+Updating a graph with a stream of posting information on facebook is an example of which of the Vs?
+
+try Velocity
+
+Volume
+
+Variety
+
+Valence
+
+11. 
+Studying Amarnath's gmail interactions over time (as gmail started to be used by more and more people) is BEST defined as an impact of which of the Vs?
+
+Valence
+
+TRY Velocity
+
+Variety
+
+NO Volume
+
+12. 
+Which of the Vs is most relevant to the kinds of graph analysis you are interested in? Tell us why in a sentence or 2. (Any response will be counted correct.)
